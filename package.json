@@ -1,0 +1,19 @@
+{
+  "name": "boiteajeuxAgricoraBot",
+  "version": "0.0.1",
+  "description": "A agricora AI.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "request": "latest",
+    "jsdom": "latest",
+    "jquery": "latest",
+    "express": "latest",
+    "lowdb": "1.x"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}
